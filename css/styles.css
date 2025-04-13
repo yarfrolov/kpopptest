@@ -639,7 +639,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     display: flex;
     justify-content: center;
-    background: url(images/join-us-bg.jpg) center/cover no-repeat var(--color-dark-alternate);
+    background: url(./images/join-us-bg.jpg) center/cover no-repeat var(--color-dark-alternate);
     padding: 150px 30px;
 }
 
