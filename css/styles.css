@@ -514,7 +514,7 @@ h1, h2, h3, h4, h5, h6 {
     width: clamp(60px, 10.1vw, 194px);
     aspect-ratio: 1;
     margin-right: 30px;
-    background: url(icons/bold-arrow-down-right.svg) center/contain 
+    background: url("../icons/bold-arrow-down-right.svg") center/contain 
     no-repeat;
  
 
@@ -623,7 +623,7 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     row-gap: 32px;
     padding-top: var(--trainingTypesItemBgIconSize);
-    background: url(icons/transparent-arrow-bottom-left.svg) 100% 0/var(--trainingTypesItemBgIconSize)  no-repeat;
+    background: url("../icons/transparent-arrow-bottom-left.svg") 100% 0/var(--trainingTypesItemBgIconSize)  no-repeat;
 }
 
 .training-types-item-title {
@@ -673,7 +673,7 @@ h1, h2, h3, h4, h5, h6 {
     content:'';
     width: 26px;
     aspect-ratio: 1;
-    background: url(icons/arrow-top-right.svg) center/contain no-repeat;
+    background: url("../icons/arrow-top-right.svg") center/contain no-repeat;
     transition: var(--transition-duration);
 }
 
