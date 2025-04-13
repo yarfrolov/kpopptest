@@ -1222,6 +1222,7 @@ margin-bottom: 35px;
 
     .header {
         padding-top: 10px;
+        height: 100dvh;
     }
 
     .header-menu-list {
