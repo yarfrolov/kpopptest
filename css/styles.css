@@ -1138,7 +1138,7 @@ margin-bottom: 35px;
 
     .banner {
       row-gap: 10px;
-      height: 100dvh;
+      height: 100svh;
     }
 
     .motivation-card {
