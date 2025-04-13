@@ -1247,6 +1247,11 @@ margin-bottom: 35px;
     margin-right: 10px;
     }
 
+    .banner {
+      row-gap: 10px;
+      height: 100svh;
+    }
+
     .motivation-card,
     .motivation-item:nth-child(even) .motivation-card {
         flex-direction: column-reverse
