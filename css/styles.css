@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6 {
     right: calc(100% + 8px);
     width: 26px;
     aspect-ratio: 1;
-    background: url(/icons/plus-icon.svg) center/contain no-repeat;  
+    background: url(icons/plus-icon.svg) center/contain no-repeat;  
 }
 
 .backdrop-title::after {
@@ -386,7 +386,7 @@ h1, h2, h3, h4, h5, h6 {
     aspect-ratio: 1;
     right: 0;
     display: block;
-    background: url(/icons/arrow-top-right.svg) center/70% no-repeat;
+    background: url(icons/arrow-top-right.svg) center/70% no-repeat;
     border: var(--border);
     border-radius: 50%
 }
@@ -514,7 +514,7 @@ h1, h2, h3, h4, h5, h6 {
     width: clamp(60px, 10.1vw, 194px);
     aspect-ratio: 1;
     margin-right: 30px;
-    background: url(/icons/bold-arrow-down-right.svg) center/contain 
+    background: url(icons/bold-arrow-down-right.svg) center/contain 
     no-repeat;
  
 
@@ -623,7 +623,7 @@ h1, h2, h3, h4, h5, h6 {
     align-items: center;
     row-gap: 32px;
     padding-top: var(--trainingTypesItemBgIconSize);
-    background: url(/icons/transparent-arrow-bottom-left.svg) 100% 0/var(--trainingTypesItemBgIconSize)  no-repeat;
+    background: url(icons/transparent-arrow-bottom-left.svg) 100% 0/var(--trainingTypesItemBgIconSize)  no-repeat;
 }
 
 .training-types-item-title {
@@ -639,7 +639,7 @@ h1, h2, h3, h4, h5, h6 {
     position: relative;
     display: flex;
     justify-content: center;
-    background: url(/images/join-us-bg.jpg) center/cover no-repeat var(--color-dark-alternate);
+    background: url(images/join-us-bg.jpg) center/cover no-repeat var(--color-dark-alternate);
     padding: 150px 30px;
 }
 
@@ -673,7 +673,7 @@ h1, h2, h3, h4, h5, h6 {
     content:'';
     width: 26px;
     aspect-ratio: 1;
-    background: url(/icons/arrow-top-right.svg) center/contain no-repeat;
+    background: url(icons/arrow-top-right.svg) center/contain no-repeat;
     transition: var(--transition-duration);
 }
 
@@ -744,7 +744,7 @@ select.input:invalid {
     content: '';
     height: 0.7em;
     aspect-ratio: 1;
-    background: url(/icons/bold-arrow-down-right.svg) center/contain no-repeat;
+    background: url(icons/bold-arrow-down-right.svg) center/contain no-repeat;
     scale: 1 -1;
     margin-left: 0.14em;
 }
@@ -1028,7 +1028,7 @@ margin-bottom: 35px;
     content: '';
     height: 0.74em;
     aspect-ratio: 1;
-    background: url(/icons/bold-arrow-down-right.svg) center/contain no-repeat;
+    background: url(icons/bold-arrow-down-right.svg) center/contain no-repeat;
     scale: -1 1;
     margin-left: 0.5em;
 }
@@ -1048,7 +1048,7 @@ margin-bottom: 35px;
     height: 100%;
     aspect-ratio: 1;
     background-color: transparent;
-    background: url(/icons/arrow-top-right.svg) center/70% no-repeat;
+    background: url(icons/arrow-top-right.svg) center/70% no-repeat;
     border: var(--border);
     border-radius: 50%;
 }
