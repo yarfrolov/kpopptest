@@ -316,7 +316,7 @@ h1, h2, h3, h4, h5, h6 {
     right: calc(100% + 8px);
     width: 26px;
     aspect-ratio: 1;
-    background: url(icons/plus-icon.svg) center/contain no-repeat;  
+    background: url(../icons/plus-icon.svg) center/contain no-repeat;  
 }
 
 .backdrop-title::after {
@@ -386,7 +386,7 @@ h1, h2, h3, h4, h5, h6 {
     aspect-ratio: 1;
     right: 0;
     display: block;
-    background: url(/icons/arrow-top-right.svg) center/70% no-repeat;
+    background: url(../icons/arrow-top-right.svg) center/70% no-repeat;
     border: var(--border);
     border-radius: 50%
 }
